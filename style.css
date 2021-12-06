@@ -1,0 +1,47 @@
+.page {
+    width: 20%;
+    margin: 0 auto;
+}
+
+form {
+    font-size: 21px;
+}
+
+form .textinput {
+    font-size: 18px;
+    display: block;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    height: auto;
+    border: 1px solid #dadada;
+    border-radius: 12px;
+    color: #555;
+    width: 100%;
+    padding: 12px 24px;
+    background-color: #fff;
+}
+
+form .button {
+    color: rgba(255, 255, 255);
+    border: none;
+    background-color: rgba(0, 97, 162, 0.8);
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    border-radius: 12px;
+}
+
+.header {
+    font-size: 60px;
+    font-weight: bold;
+    margin-bottom: 70px;
+    display: block;
+    text-align: center;
+}
+
+.header img {
+    margin: 0 auto;
+}
